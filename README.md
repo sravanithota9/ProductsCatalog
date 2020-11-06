@@ -1,5 +1,5 @@
 
-Thank you for providing a opportunity.
+Thank you for providing an opportunity.
 
 
 ### Start Development Server
