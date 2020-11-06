@@ -1,0 +1,9 @@
+.itemPrice {
+    position: absolute;
+    left: 30px;
+    bottom: 30px;
+    padding: 6px;
+    background-color: rgba(0, 0, 0, 0.692);
+    font-weight: bolder;
+    color: white;
+}
